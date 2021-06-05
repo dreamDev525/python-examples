@@ -19,11 +19,13 @@ Notes:
     1. 'wb' overwrites binary file
     2. 'ab' appends to existing binary file
 '''
-
+###############################################################
 # Imports
+###############################################################
 import struct
 import numpy as np
 import datetime as dt
+
 ###############################################################
 # Saves python dict() to a binary file called :: binary_data
 ###############################################################
