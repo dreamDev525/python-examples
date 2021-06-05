@@ -1,10 +1,11 @@
 '''
 Binary.py 
-Example websocket connection for price data
+Example binary packing/unpacking for large data storage/retrieval
 Author: Dan Wallace
 Date: 6/5/2021
 
--> Binary.py Example 
+Notes:
+-> Binary.py
     1. This script contains two functions :: convert_to_binary(), unpack_binary_file().
         -> convert_to_binary()  :: Parses python dict(), where key's values are arrays, into a 1D binary file.
         -> convert_to_binary()  :: This can be used to optimize large data storage
@@ -14,7 +15,7 @@ Date: 6/5/2021
     2. For the example we will uses Numpy to create arrays
         -> Type 'pip install numpy' in your terminal if you don't have it already
 
--> Struct Notes
+-> Struct
     1. 'wb' overwrites binary file
     2. 'ab' appends to existing binary file
 '''
