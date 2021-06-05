@@ -1,7 +1,5 @@
 # examples
-### Various scripts to learn from/build with
-
-Current Scripts:
+### Current Example Scripts:
 
 ## 1. /crypto/PriceStream.py    
     -> Creates/subscribes to binance websocket to retrieve live price data. 
