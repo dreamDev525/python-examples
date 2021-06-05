@@ -97,4 +97,4 @@ data = {
 convert_to_binary(data)
 
 # Unpack binary file to python dict
-unpack_binary_file('binary_data')
+unpack_binary_file()
