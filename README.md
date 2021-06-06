@@ -1,4 +1,4 @@
-# examples
+# Brick's Python Examples: 2021
 ### Current Example Scripts:
 
 ## 1. crypto/PriceStream.py    
